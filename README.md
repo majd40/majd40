@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MAJDABOUHASHISH
+- 👀 I’m interested in JAVA, and Python.
+- 🌱 I’m currently learning Web Development, and Mobile Development.
+- 📫 majdabouhashish@gmail.com
+- 📱 00966552507100
