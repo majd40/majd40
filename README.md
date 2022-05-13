@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Online Community System Website](https://github.com/MAJDABOUHASHISH/Online-Community-System-Website/)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development, Python, and Android Development**
 
 - 📫 How to reach me **majdabouhashish@gmail.com**
 
