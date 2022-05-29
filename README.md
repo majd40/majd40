@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on [Online Community System Website](https://github.com/MAJDABOUHASHISH/Online-Community-System-Website/)
 
-- 🌱 I’m currently learning **Web Development, Python, and Android Development**
+- 🌱 I’m currently learning **Angular, Python, and more!**
 
 - 📫 How to reach me **majdabouhashish@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IfkI_IqscR65JcRfZVdHKONK2ztJvU24/view?usp=sharing">CV</a>
+
+- 🌍  I'm based in Jeddah, Saudi Arabia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
