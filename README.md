@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **majdabouhashish@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IfkI_IqscR65JcRfZVdHKONK2ztJvU24/view?usp=sharing">CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TK8KHdpXoprhrMNslmLLU67kGPCWFgss/view?usp=sharing">CV</a>
 
 - 🌍  I'm based in Jeddah, Saudi Arabia
 
