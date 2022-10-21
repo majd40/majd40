@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MAJD ABOU HASHISH</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
+<h3 align="center">A Passionate Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [Online Community System Website](https://github.com/MAJDABOUHASHISH/Online-Community-System-Website/)
+- 🔭 I’m currently working with Wavelet Solutions Sdn Bhd
 
-- 🌱 I’m currently learning **Angular, Python, and more!**
+- 🌱 I’m currently developing **Angular, Python, and more!**
 
 - 📫 How to reach me **majdabouhashish@gmail.com**
 
