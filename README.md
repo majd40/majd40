@@ -9,7 +9,7 @@
 
 <a href="mailto:majd40098@gmail.com" target="blank"><img height="32" width="32" alt="Email" src="https://cdn.simpleicons.org/maildotru/black/white"/></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/majdabouhashish" target="blank"><img height="32" width="32" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/black/white"/></a>
+<a href="https://linkedin.com/in/majd40" target="blank"><img height="32" width="32" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/black/white"/></a>
 
 ### Front End
 
