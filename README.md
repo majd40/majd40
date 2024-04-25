@@ -1,4 +1,4 @@
-<h1 align="center">MAJD ABOU HASHISH</h1>
+<h1 align="center">Majd Khaled</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
 ### CV
@@ -7,7 +7,7 @@
 
 ### Connect with me
 
-<a href="mailto:majdabouhashish@gmail.com" target="blank"><img height="32" width="32" alt="Email" src="https://cdn.simpleicons.org/maildotru/black/white"/></a>
+<a href="mailto:majd40098@gmail.com" target="blank"><img height="32" width="32" alt="Email" src="https://cdn.simpleicons.org/maildotru/black/white"/></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/majdabouhashish" target="blank"><img height="32" width="32" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/black/white"/></a>
 
