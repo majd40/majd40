@@ -3,7 +3,7 @@
 
 ### CV
 
-<a href="https://drive.google.com/file/d/16U3FeROZWy6dqLPIgCnM4RRI34Hkl9HJ/view?usp=sharing"><img height="32" width="32" src="https://cdn.simpleicons.org/readthedocs/black/white"/></a>
+<a href="https://drive.google.com/file/d/1Llu9bqofTWAU-QIB4SU5COzCvfx1Mt7B/view?usp=sharing"><img height="32" width="32" src="https://cdn.simpleicons.org/readthedocs/black/white"/></a>
 
 ### Connect with me
 
