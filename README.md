@@ -10,7 +10,7 @@
 <a href="mailto:majd40098@gmail.com" target="blank"><img height="32" width="32" alt="Email" src="https://cdn.simpleicons.org/maildotru/black/white"/></a>
 &nbsp;&nbsp;
 
-<a href="https://majd40.netlify.app/" target="blank" style="background-color: white; width: 32; height: 32;">
+<a href="https://majd40.netlify.app/" target="blank" style="background-color: white; width: 320; height: 320;">
 </a>
 &nbsp;&nbsp;
 
