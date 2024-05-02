@@ -6,13 +6,14 @@
 <a href="https://drive.google.com/file/d/1Llu9bqofTWAU-QIB4SU5COzCvfx1Mt7B/view?usp=sharing"><img height="32" width="32" src="https://cdn.simpleicons.org/readthedocs/black/white"/></a>
 
 ### Connect with me
+[Portofilio](https://majd40.netlify.app/)
+&nbsp;&nbsp;
 
 <a href="mailto:majd40098@gmail.com" target="blank"><img height="32" width="32" alt="Email" src="https://cdn.simpleicons.org/maildotru/black/white"/></a>
 &nbsp;&nbsp;
 
 <a href="https://majd40.netlify.app/" target="blank" style="background-color: white; width: 320; height: 320;">
 </a>
-&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/majd40" target="blank"><img height="32" width="32" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/black/white"/></a>
 
