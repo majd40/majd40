@@ -1,5 +1,5 @@
 <h1 align="center">Majd Khaled</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ### CV
 
